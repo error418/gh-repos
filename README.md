@@ -42,9 +42,13 @@ The default template for displaying the repositories can be found in the file `p
 
 Following css classes are used:
 
+### repo-list
+
+Is the container class wrapping all repositories
+
 ### repo
 
-Is the container class wrapping the repositories
+Is the container class wrapping a repository
 
 ### repo-name
 
